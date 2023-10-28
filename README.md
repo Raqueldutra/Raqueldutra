@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raqueldutra
 - 👀 I’m interested in automated test scripts API and WEB.
-- 🌱 I’m currently learning about docker and cypress
+- 🌱 I’m currently learning about good practices in projects with automated tests
 
 <!---
 Raqueldutra/Raqueldutra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
